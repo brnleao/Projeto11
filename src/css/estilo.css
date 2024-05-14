@@ -134,7 +134,7 @@ header{
         transform: translateX(100px);
     }
     to{
-        transform: translateX(10px);
+        transform: translateX(5px);
         filter:drop-shadow(var(--color6) 0 0 2rem);
     }
 }
